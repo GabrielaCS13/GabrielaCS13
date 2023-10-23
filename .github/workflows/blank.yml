@@ -3,8 +3,8 @@ name: Gerar Datas
 on:
   schedule: # executar a cada 12 hora
     - cron: "* */12 * * *"
-  workflow_dispatch:
-
+  workflow_dispatch: 
+  
 jobs:
   build:
     name: Atualizar Datas
