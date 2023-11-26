@@ -25,6 +25,9 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/gabriela-cristina-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <a href="https://gabrielasilva00243.wixsite.com/website" " target="_blank"><img src="https://img.shields.io/badge/Portfólio-%23E60023?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+</div> 
 </div>
 
 ![Snake animation](https://github.com/GabrielaCS13/GabrielaCS13/blob/output/github-contribution-grid-snake.svg)
